@@ -54,4 +54,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagaba1322&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="adityagaba1322" /></p>
 
-![snake gif](https://github.com/ADITYAGABA1322/ADITYAGABA1322/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ADITYAGABA1322/ADITYAGABA1322/blob/output/github-contribution-grid-snake.svg)
