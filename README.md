@@ -23,7 +23,7 @@
 
 <!-- <img align="right" alt="Coding" width="300" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">  -->
 
-<img align="right" alt="Coding" width="=500" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+<img align="right" alt="Coding" width="=100" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
 <br/>
