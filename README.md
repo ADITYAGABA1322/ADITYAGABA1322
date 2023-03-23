@@ -56,3 +56,8 @@
 
 
 ![snake gif](https://github.com/ADITYAGABA1322/ADITYAGABA1322/blob/output/github-contribution-grid-snake.svg)
+
+
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Aditya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ADITYAGABA1322&theme=react-dark&hide_border=true" /></a>    
+  
