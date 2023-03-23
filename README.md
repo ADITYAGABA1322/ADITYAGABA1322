@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityagaba1322" target="blank"><img src="https://img.shields.io/twitter/follow/adityagaba1322?logo=twitter&style=for-the-badge" alt="adityagaba1322" /></a> </p>
 
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="Coding" width="500" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 <br/>
 
