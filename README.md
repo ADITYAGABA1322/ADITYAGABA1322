@@ -47,7 +47,7 @@
 <br/>
 
 ## 📊 My Github Stats
-
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagaba1322&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"" alt="adityagaba1322" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityagaba1322&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117"" alt="adityagaba1322" /></p>
@@ -55,10 +55,37 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagaba1322&theme=dark&hide_border=true&theme=react" alt="adityagaba1322" /></p>
 
+ -->
 
-![snake gif](https://github.com/ADITYAGABA1322/ADITYAGABA1322/blob/output/github-contribution-grid-snake.svg)
+<div>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADITYAGABA1322&theme=2077" width="46%" />
+  <br/>
+  <br/>
+    <br/>
+  <br/>
+<img align="right" src="https://streak-stats.demolab.com/?user=ADITYAGABA1322&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
+</div>
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADITYAGABA1322&theme=2077" width="45%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADITYAGABA1322&theme=2077" width="45%" />
+</div>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">    
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYAGABA1322&theme=2077" style="height: 300px"  />         </div>                                                                                       
+    
+
+
 
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Aditya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ADITYAGABA1322&theme=react-dark&hide_border=true" /></a>    
+  <a><img alt="Aditya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ADITYAGABA1322&theme=react-dark&hide_border=true" /></a> 
+
+
+
+![snake gif](https://github.com/ADITYAGABA1322/ADITYAGABA1322/blob/output/github-contribution-grid-snake.svg)
+   
   
