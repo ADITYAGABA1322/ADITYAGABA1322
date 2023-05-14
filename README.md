@@ -3,6 +3,7 @@
 <h3 align="center">A passionate MS365 developer from India</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
    <p align="center" color:"red">
  <a>
           <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=0000FF&vCenter=true&width=600&lines=1000%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm+in+Java;Microsoft+365+Developer+From+India;"></a>
@@ -105,6 +106,9 @@
 <img align="bottom" src="https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif"  width="100%"  />
 
 ## 📊 My Github Stats
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagaba1322&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"" alt="adityagaba1322" /></p>
 
@@ -135,6 +139,7 @@
 <div align="center">    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYAGABA1322&theme=2077" style="height: 300px"  />         </div>                                                                                       
     
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -142,6 +147,7 @@
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Aditya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ADITYAGABA1322&theme=react-dark&hide_border=true" /></a> 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ![snake gif](https://github.com/ADITYAGABA1322/ADITYAGABA1322/blob/output/github-contribution-grid-snake.svg)
