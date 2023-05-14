@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D16AQGyknkd90iaTA/profile-displaybackgroundimage-shrink_350_1400/0/1641934719513?e=1684972800&v=beta&t=PawekgikTHEJPV-ZYZ7VynASRkCJsXo9lvZIkUrepQE)
-<h1 align="center">Hi 👋, I'm Aditya Gaba</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="32px"> ,I'm Aditya</h1>
 <h3 align="center">A passionate MS365 developer from India</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
