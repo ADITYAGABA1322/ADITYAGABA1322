@@ -48,6 +48,12 @@
 ## Connect with me:
 
 <p align="left">
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ADITYAGABA1322)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/aditya-gaba-82619b222)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/delve_aditya)
+[![twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityagaba1322)
+   
+   
 <a href="https://twitter.com/adityagaba1322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityagaba1322" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-gaba-82619b222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gaba-82619b222" height="30" width="40" /></a>
 <a href="https://fb.com/aditya.gaba.925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya.gaba.925" height="30" width="40" /></a>
