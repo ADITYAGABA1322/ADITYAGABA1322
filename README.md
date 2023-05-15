@@ -171,6 +171,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-![snake gif](https://github.com/ADITYAGABA1322/ADITYAGABA1322/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ADITYAGABA1322/ADITYAGABA1322/blob/output/github-contribution-grid-snake.svg)
 
   
