@@ -65,34 +65,50 @@
 ## :hammer_and_wrench: Languages and Tools🚀:
 
 
-<div align="center">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://user-images.githubusercontent.com/74038190/206675680-c2664ef5-55be-4c18-9a9a-74f09dba904f.svg"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/><br>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</div>
+<p align="left"> 
+    <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> --> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>-->
+    <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
+    <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> -->
+    <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> -->
+    <!-- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> -->
+    <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> -->
+    <!-- <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
+    <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c" width="48" height="48"/> </a>
+    <a href="https://cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="48" height="48"/> </a>
+<!--     <a><img src="https://www.pngall.com/wp-content/uploads/5/Vertical-Line-PNG-Images.png" alt="-><-" width="48" height="48"> </a> -->
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/256/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/> </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://i.postimg.cc/vxm5p0DK/pngwing-com.png" alt="Intelli J" width="48" height="48"/> </a>
+    <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwiOioz44_78AhURVWAKHe0OA-IYABAAGgJ0bQ&sig=AOD64_1OUrUSttAv8pJshT-iDC-MsDcwOg&q&adurl&ved=2ahUKEwinuob44_78AhUchlYBHa54BgoQ0Qx6BAgHEAE" target="_blank"> <img src="https://i.postimg.cc/7bP1GZXN/pngegg-8.png" alt="Android Studio" width="50" height="48"/> </a>
+    <br>
+     <a href="https://www.debian.org/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-64.png" alt="linux" width="48" height="48"/> </a>
+    <a href="https://ubuntu.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-512.png" alt="ubuntu" width="48" height="48"/> </a>
+    <a href="https://www.redhat.com/en" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/fedora.png" alt="RHEL" width="48" height="48"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/APT_(software)" target="_blank"> <img src="https://i.postimg.cc/4Nd6Zr9p/pngegg-5.png" alt="apt" width="48" height="48"/> </a>
+    <a href="https://maven.apache.org/" target="_blank"> <img src="https://i.postimg.cc/Ssv63dxW/pngegg-2.png" alt="maven" width="48" height="48"/> </a>
+    <a href="https://gradle.org/" target="_blank"> <img src="https://i.postimg.cc/X7T5wXrY/pngegg.png" alt="gradle" width="48" height="48"/> </a>
+    <a href="https://ant.apache.org/" target="_blank"> <img src="https://i.postimg.cc/7PBPvcDv/pngegg-4.png" alt="ant" width="52" height="52"/> </a>
+    <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://i.postimg.cc/MKJ3dZMd/tomca.png" alt="tomcat"/> </a>
+    <a href="https://yaml.org/" target="_blank"> <img src="https://i.postimg.cc/d13sDmmN/pngegg-6.png" alt="yaml" width="48" height="48"/> </a>
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/256/jenkins.png" alt="jenkins" width="48" height="48"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/256/amazon-web-services.png" alt="aws" width="48" height="48"/> </a>
+    <a href="https://www.sonatype.com/products/nexus-repository" target="_blank"> <img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" alt="nexus sonatype" width="48" height="48"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/256/docker.png" alt="docker" width="48" height="48"/> </a>   
+<!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
+<!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
+<!--     <a href="" target="_blank"> <img src="" alt="c++" width="48" height="48"/> </a> -->
+</p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 
