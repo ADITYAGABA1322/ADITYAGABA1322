@@ -47,7 +47,14 @@
 
 ## Connect with me:
 
+
 <p align="left">
+<a href = "https://linkedin.com/in/aditya-gaba-82619b222"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/adityagaba1322"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://instagram.com/delve_aditya"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href = " "><img src="https://img.icons8.com/fluency/48/000000/link.png"/></a> -->
+
+<!-- <p align="left">
    
    
 <a href="https://twitter.com/adityagaba1322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityagaba1322" height="30" width="40" /></a>
@@ -56,7 +63,7 @@
 <a href="https://instagram.com/delve_aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="delve_aditya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adityagaba1322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityagaba1322" height="30" width="40" /></a>
 <a href="https://discord.gg/0019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0019" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <br/>
 
