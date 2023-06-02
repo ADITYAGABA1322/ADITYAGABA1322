@@ -123,7 +123,11 @@
 
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Aditya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ADITYAGABA1322&theme=react-dark&hide_border=true" /></a> 
+<!--  
+   <a><img alt="Aditya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ADITYAGABA1322&theme=react-dark&hide_border=true" /></a>  -->
+   
+   <img width="10000" src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYAGABA1322&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
