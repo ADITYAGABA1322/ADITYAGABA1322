@@ -116,7 +116,14 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYAGABA1322&theme=2077" style="height: 300px"  />         </div>                                                                                       
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYAGABA1322&theme=2077" style="height: 300px"  />         </div>  
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagaba1322&show_icons=true&locale=en&layout=compact" alt="adityagaba1322" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityagaba1322&show_icons=true&locale=en" alt="adityagaba1322" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagaba1322&" alt="adityagaba1322" /></p>
     
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
