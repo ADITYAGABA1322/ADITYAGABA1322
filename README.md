@@ -1,12 +1,12 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D16AQGyknkd90iaTA/profile-displaybackgroundimage-shrink_350_1400/0/1641934719513?e=1696464000&v=beta&t=fg0qeDRgnoIepS0iyLh9kGHS0jpcp76B4nMu55SCr3M)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQE3p_3FOXgFew/profile-displaybackgroundimage-shrink_350_1400/0/1694330175513?e=1700092800&v=beta&t=0umM9SWAYwFIsXqyZ8MgSLpD3Gsyt6w9M-KXqnX2f6Q)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="32px"> ,I'm Aditya</h1>
-<h3 align="center">A passionate IOS developer from India</h3>
+<h3 align="center">A passionate iOS developer from India</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
    <p align="center" color:"red">
  <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=0000FF&vCenter=true&width=600&lines=1000%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm+in+Java;Microsoft+365+Developer+From+India;"></a>
+          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=0000FF&vCenter=true&width=600&lines=1000%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm+in+Java;iOS+Developer+From+India;"></a>
       </p>
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
