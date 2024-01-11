@@ -104,7 +104,8 @@
   <br/>
     <br/>
   <br/>
-<img align="right" src="https://streak-stats.demolab.com/?user=ADITYAGABA1322&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
+<!-- <img align="right" src="https://streak-stats.demolab.com/?user=ADITYAGABA1322&_border=true&theme=dark&hide_border=true&theme=react" width="46%" /> -->
+   <p><img align="center" src="https://streak-stats.demolab.com/?user=adityagaba1322&_border=true&theme=dark&hide_border=true&theme=react" width="46%" /></p>
 </div>
 <br/>
 <br/>
