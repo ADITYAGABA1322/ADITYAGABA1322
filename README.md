@@ -99,13 +99,13 @@
  -->
 
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADITYAGABA1322&theme=2077" width="46%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADITYAGABA1322&theme=2077" width="146%" />
   <br/>
   <br/>
     <br/>
   <br/>
 <!-- <img align="right" src="https://streak-stats.demolab.com/?user=ADITYAGABA1322&_border=true&theme=dark&hide_border=true&theme=react" width="46%" /> -->
-   <p><img align="center" src="https://streak-stats.demolab.com/?user=adityagaba1322&_border=true&theme=dark&hide_border=true&theme=react" width="46%" /></p>
+   <p><img align="right" src="https://streak-stats.demolab.com/?user=adityagaba1322&_border=true&theme=dark&hide_border=true&theme=react" width="146%" /></p>
 </div>
 <br/>
 <br/>
@@ -124,9 +124,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagaba1322&show_icons=true&locale=en&layout=compact" alt="adityagaba1322" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityagaba1322&show_icons=true&locale=en" alt="adityagaba1322" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityagaba1322&show_icons=true&locale=en" alt="adityagaba1322" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagaba1322&" alt="adityagaba1322" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagaba1322&" alt="adityagaba1322" width="145%" /></p>
     
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
