@@ -126,7 +126,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityagaba1322&show_icons=true&locale=en" alt="adityagaba1322" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagaba1322&" alt="adityagaba1322" width="145%" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYAGABA1322&" alt="ADITYAGABA1322" width="145%" /></p>
     
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
