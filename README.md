@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQE3p_3FOXgFew/profile-displaybackgroundimage-shrink_350_1400/0/1694330176178?e=1727308800&v=beta&t=hU7sm8lS7_OsyI6jYMXRkxO5PD7CYpjezulBh479n6g)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE3p_3FOXgFew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694330176178?e=1732752000&v=beta&t=8WKdnOwhujGj9tFJdNwd6Mkt8ivRGd9RwhUuh1orptA)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="32px"> ,I'm Aditya</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
 
