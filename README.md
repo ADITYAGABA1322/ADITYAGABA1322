@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE3p_3FOXgFew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694330176178?e=1749081600&v=beta&t=Z6kgqIwjPfZLaqXOCk7Drbegxk8zUE7w2t8-TPXJLdI)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE3p_3FOXgFew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694330176178?e=1754524800&v=beta&t=YyMpHdsXVI5yOJhElQIpCyCjZw1CKJ3sw5vNM42jNSo)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="32px"> ,I'm Aditya</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
 
@@ -11,7 +11,7 @@
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="bottom" src="https://developer.apple.com/wwdc24/images/motion/pvbje/endframe-large_2x.jpg"  width="100%"  />
+<img align="bottom" src="https://devimages-cdn.apple.com/wwdc-services/articles/images/E1375BCD-1415-4DC9-929E-467964B54F19/2048.jpeg"  width="100%"  />
 <!-- 
 <img align="bottom" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="100%"  />
 -->
