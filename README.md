@@ -4,16 +4,16 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ADITYAGABA1322/ADITYAGABA1322/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,50:00C6FF,100:7B2FF7&height=220&section=header&text=Aditya%20Gaba&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=iOS%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=2800&pause=600&color=00C6FF&center=true&vCenter=true&width=750&lines=🍎+iOS+Developer+%40+Marrow+%7C+DailyRounds;⚡+1000%2B+LeetCode+Problems+Solved;🧠+Swift+%7C+SwiftUI+%7C+UIKit+%7C+C%2B%2B;🎯+Targeting+Google+%7C+Meta+%7C+Apple;🚀+Building+Products+That+Matter)](https://github.com/ADITYAGABA1322)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=2800&pause=600&color=00C6FF&center=true&vCenter=true&width=750&lines=🍎+iOS+Developer+%40+Marrow+%7C+DailyRounds;⚡+1000%2B+LeetCode+Problems+Solved;🧠+Swift+%7C+SwiftUI+%7C+UIKit+%7C+C%2B%2B;🏆+WWDC+2024+%26+2025+Swift+Student+Challenge+Winner;🎯+Targeting+Google+%7C+Meta+%7C+Apple)](https://github.com/ADITYAGABA1322)
 
 <br/>
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-gaba-82619b222)
@@ -25,6 +25,10 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adityagaba1322&label=Profile+Views&color=00C6FF&style=flat-square)
+&nbsp;
+![WWDC 2024](https://img.shields.io/badge/WWDC_2024-Swift_Student_Challenge-FA7343?style=flat-square&logo=swift&logoColor=white)
+&nbsp;
+![WWDC 2025](https://img.shields.io/badge/WWDC_2025-Swift_Student_Challenge-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 </div>
 
@@ -40,6 +44,9 @@ struct AdityaGaba: Developer {
     let role        = "iOS Developer @ Marrow (DailyRounds)"
     let education   = "Chitkara University"
 
+    let awards      = ["WWDC 2024 Swift Student Challenge Winner 🏆",
+                       "WWDC 2025 Swift Student Challenge Winner 🏆"]
+
     let expertise   = ["Swift", "SwiftUI", "UIKit", "iOS Architecture",
                        "DSA", "C++", "System Design", "AI/ML"]
 
@@ -50,6 +57,47 @@ struct AdityaGaba: Developer {
     func contact()  -> String { "AdityaGaba@adityagaba.onmicrosoft.com" }
 }
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055FF,100:7B2FF7&height=3" width="100%"/>
+
+## `< WWDC Swift Student Challenge />`
+
+<div align="center">
+
+<img src="https://photos5.appleinsider.com/gallery/53719-108015-swift-challenge-2023-xl.jpg" width="100%" style="border-radius:10px"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="110">
+  <img src="https://developer.apple.com/assets/elements/icons/swift-playgrounds/swift-playgrounds-96x96_2x.png" width="60"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/2024-Winner-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/2025-Winner-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+</td>
+<td>
+
+### 🏆 Apple WWDC 2024 & 2025 — Swift Student Challenge Winner
+
+Selected by Apple **two consecutive years** from thousands of global applicants worldwide. Built interactive **Swift Playgrounds** apps recognised by Apple engineers for exceptional **SwiftUI architecture**, creative problem solving, and polished user experience design.
+
+- 📍 One of **~350 winners** chosen globally each year
+- 🍎 Recognised directly by Apple for outstanding Swift development
+- 🌏 Competing against applicants from every country worldwide
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+![WWDC 2024](https://img.shields.io/badge/WWDC_2024-Swift_Student_Challenge_Winner-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+&nbsp;
+![WWDC 2025](https://img.shields.io/badge/WWDC_2025-Swift_Student_Challenge_Winner-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055FF,100:7B2FF7&height=3" width="100%"/>
 
