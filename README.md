@@ -4,6 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ADITYAGABA1322/ADITYAGABA1322/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,50:00C6FF,100:7B2FF7&height=220&section=header&text=Aditya%20Gaba&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=iOS%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
@@ -13,6 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=2800&pause=600&color=00C6FF&center=true&vCenter=true&width=750&lines=🍎+iOS+Developer+%40+Marrow+%7C+DailyRounds;⚡+1000%2B+LeetCode+Problems+Solved;🧠+Swift+%7C+SwiftUI+%7C+UIKit+%7C+C%2B%2B;🎯+Targeting+Google+%7C+Meta+%7C+Apple;🚀+Building+Products+That+Matter)](https://github.com/ADITYAGABA1322)
 
 <br/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-gaba-82619b222)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityagaba1322)
