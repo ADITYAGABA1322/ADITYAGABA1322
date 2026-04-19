@@ -66,7 +66,6 @@ struct AdityaGaba: Developer {
 
 <img src="https://photos5.appleinsider.com/gallery/53719-108015-swift-challenge-2023-xl.jpg" width="100%" style="border-radius:10px"/>
 
-<br/><br/>
 
 <table>
 <tr>
