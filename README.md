@@ -66,7 +66,6 @@ struct AdityaGaba: Developer {
 
 <img src="https://photos5.appleinsider.com/gallery/53719-108015-swift-challenge-2023-xl.jpg" width="100%" style="border-radius:10px"/>
 
-
 <table>
 <tr>
 <td align="center" width="110">
@@ -158,14 +157,29 @@ Selected by Apple **two consecutive years** from thousands of global applicants 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityagaba1322&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00C6FF&icon_color=7B2FF7&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYAGABA1322&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=7B2FF7&fire=FF6B6B&currStreakLabel=00C6FF" width="48%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ADITYAGABA1322&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&no-bg=true" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagaba1322&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=00C6FF&text_color=ffffff" width="40%"/>
-&nbsp;&nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADITYAGABA1322&theme=tokyonight&utcOffset=5.5" width="40%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADITYAGABA1322&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADITYAGABA1322&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADITYAGABA1322&theme=tokyonight" width="32%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADITYAGABA1322&theme=tokyonight&utcOffset=5.5" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYAGABA1322&theme=tokyonight" width="49%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055FF,100:7B2FF7&height=3" width="100%"/>
+
+## `< LeetCode Stats />`
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/adityagaba1322?theme=dark&font=Fira%20Code&ext=heatmap&border=0&bgcolor=0D1117" width="72%"/>
 
 </div>
 
@@ -175,20 +189,6 @@ Selected by Apple **two consecutive years** from thousands of global applicants 
 
 <div align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYAGABA1322&bg_color=0D1117&color=00C6FF&line=7B2FF7&point=ffffff&area=true&area_color=0055FF&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADITYAGABA1322&theme=tokyonight" width="38%"/>
-  &nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADITYAGABA1322&theme=tokyonight" width="38%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYAGABA1322&theme=tokyonight" width="80%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055FF,100:7B2FF7&height=3" width="100%"/>
