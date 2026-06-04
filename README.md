@@ -4,6 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ADITYAGABA1322/ADITYAGABA1322/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,50:00C6FF,100:7B2FF7&height=220&section=header&text=Aditya%20Gaba&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=iOS%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
