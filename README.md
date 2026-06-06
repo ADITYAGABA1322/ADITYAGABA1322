@@ -157,12 +157,6 @@ Selected by Apple **two consecutive years** from thousands of global applicants 
 ## `< GitHub Stats />`
 
 <div align="center">
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=ADITYAGABA1322&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&no-bg=true" width="49%"/>
-
-<br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADITYAGABA1322&theme=tokyonight" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADITYAGABA1322&theme=tokyonight" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADITYAGABA1322&theme=tokyonight" width="32%"/>
